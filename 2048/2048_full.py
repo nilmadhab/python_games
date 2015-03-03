@@ -2,7 +2,7 @@ __author__ = 'nilmadhab'
 
 """
 Clone of 2048 game.
-http://www.codeskulptor.org/#user39_eIAM4mQql2_22.py
+http://www.codeskulptor.org/#user39_Kmf8Jqm4np_0.py
 """
 """
 Clone of 2048 game.
@@ -256,4 +256,4 @@ class TwentyFortyEight:
         return  self._cells[row][col]
 
 
-poc_2048_gui.run_gui(TwentyFortyEight(5, 4))
+poc_2048_gui.run_gui(TwentyFortyEight(4, 4))
